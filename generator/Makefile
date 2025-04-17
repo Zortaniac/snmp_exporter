@@ -180,7 +180,6 @@ mibs: \
   $(MIBDIR)/.cisco-device \
   $(MIBDIR)/FROGFOOT-RESOURCES-MIB \
   $(MIBDIR)/.dlink-mibs \
-  $(MIBDIR)/.eltex-mes \
   $(MIBDIR)/.juniper \
   $(MIBDIR)/.dell-network \
 	$(MIBDIR)/.yamaha-rt
